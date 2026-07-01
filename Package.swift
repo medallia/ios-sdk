@@ -2,7 +2,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "medallia-bundle-ios-sdk",
+    name: "ios-sdk",
     platforms: [
         .iOS(.v15)
     ],
