@@ -14,8 +14,8 @@ Pod::Spec.new do |spec|
     spec.ios.deployment_target = '15.0'
     spec.swift_versions = ['5.0', '5.9', '6.0']
     spec.subspec 'DXA' do |dx|
-        dx.dependency 'medallia-dxa-ios-sdk', '~> 3.8.0'
-        dx.dependency 'medallia-dxa-ios-objc-sdk', '~> 3.8.0'
+        dx.dependency 'medallia-dxa-ios-sdk', '>= 3.6.1', '<= 3.8.0'
+        dx.dependency 'medallia-dxa-ios-objc-sdk', '>= 3.6.1', '<= 3.8.0'
     end
     spec.subspec 'Digital' do |di|
         di.dependency 'medallia-digital-ios-sdk', '~> 4.10.0'
