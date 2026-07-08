@@ -1,7 +1,7 @@
 <img src="https://github.com/user-attachments/assets/f3381812-bbe6-4f0e-8e4b-ad88855abba9" width="450">
 
-## Medallia Bundle for iOS
-The Medallia Bundle provides a streamlined, unified dependency for integrating multiple Medallia SDKs (Medallia Digital Experience Analytics and Medallia Digital Feedback) into a single iOS project. By using the Bundle, you ensure version compatibility and seamless communication between Medallia's key experience and analytics tools.
+## Medallia SDK for iOS
+The Medallia SDK provides a streamlined, unified dependency for integrating multiple Medallia SDKs (Medallia Digital Experience Analytics and Medallia Digital Feedback) into a single iOS project. By using the SDK, you ensure version compatibility and seamless communication between Medallia's key experience and analytics tools.
 
 ## Medallia Digital Experience Analytics
 To get started with the Medallia Digital Experience Analytics, please follow our [online documentation](https://developer.medallia.com/medallia-dxa/docs/getting-started-requirements).
