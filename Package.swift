@@ -11,8 +11,8 @@ let package = Package(
         .library(name: "MedalliaDXA", targets: ["MedalliaDXAWrapper"])
     ],
     dependencies: [
-        .package(name: "digital-ios-sdk", url: "https://github.com/medallia/digital-ios-sdk", .upToNextMajor(from: "4.10.0")),
-        .package(name: "dxa-ios-sdk", url: "https://github.com/medallia/dxa-ios-sdk", .upToNextMajor(from: "3.8.0"))
+        .package(name: "digital-ios-sdk", url: "https://github.com/medallia/digital-ios-sdk", .upToNextMajor(from: "4.11.0")),
+        .package(name: "dxa-ios-sdk", url: "https://github.com/medallia/dxa-ios-sdk", .upToNextMajor(from: "4.0.0"))
     ],
     targets: [
         .target(name: "MedalliaDigitalWrapper", dependencies: [
