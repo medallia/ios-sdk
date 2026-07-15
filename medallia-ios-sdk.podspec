@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
     spec.name = 'medallia-ios-sdk'
     spec.version = '1.0.0'
-    spec.summary = 'The Medallia SDKs Bundle for iOS.'
+    spec.summary = 'The Medallia SDK for iOS.'
     spec.homepage = 'https://github.com/medallia/ios-sdk'
     spec.license = {
         :type => 'Commercial',
